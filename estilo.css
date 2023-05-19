@@ -1,10 +1,11 @@
-body{
-    background-image:url("shrek.jpg");
-}
+.cabecalho{ background-color: gray;
+            font-size:24px;
+            width:600px;
+            padding:10px; }
 
-h2{background-color: white;
-color:blue;
-font-size:small;
-}
-h1{
-color:red;}
+.corpo{ width:600px;
+       padding:10px;
+       background-color:red;}
+
+.rodape{ width:600px;
+        padding:10px;}
